@@ -3,4 +3,4 @@ Implementation of face detection in hik-vision cctv dvr/nvr using opencv and haa
 
 To run the python file:
 
-python cctv.py --face <path to cascade classifier>
+python cctv.py --face path-to-cascade-classifier
